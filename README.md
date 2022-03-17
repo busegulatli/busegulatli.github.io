@@ -1,13 +1,13 @@
-## Welcome to GitHub Pages
+Hi! \
+I am Buse, doctoral student at Aalto University, Department of Computer Science in Finland. <br /> 
+I work in [Secure Systems Group](https://ssg.aalto.fi/) at Aalto University. <br />
+My research interests include security and privacy **of** machine learning; particularly, 
+1. adversarial examples,
+2. model watermarking,
+3. model extraction attacks and defenses
 
-You can use the [editor on GitHub](https://github.com/buseatlitekgul/buseatlitekgul.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+in applications of **image classification and deep reinforcement learning**. <br />
+I am also interested in machine learning **for** the security and privacy including ML-based intrusion detections systems and malware detection. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can contact me at : buse[dot]atlitekgul[at]aalto[dot]fi <br />
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buseatlitekgul/buseatlitekgul.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
