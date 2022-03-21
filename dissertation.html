@@ -72,17 +72,21 @@
 		<h2>Doctoral Dissertation</h2>
 		<h3 id="securing-machine-learning:-streamlining-attacks-and-defenses-under-realistic-adversary-models">Securing Machine Learning: Streamlining Attacks and Defenses Under Realistic Adversary Models</h3>
 		<p>Over the last decade, machine learning (ML) and artificial intelligence (AI) solutions have been widely used in many applications, due to their remarkable performance in various domains.
-			However, the rapid progress in AI and ML driven systems induces new security risks associated with the entire ML pipeline and vulnerabilities that can be exploited by adversaries to attack these systems.
+			Over the last decade, machine learning (ML) and artificial intelligence (AI) solutions have been widely used in many applications, due to their remarkable performance in various domains.
+                        However, the rapid progress in AI and ML driven systems induces new security risks associated with the entire ML pipeline and vulnerabilities that can be exploited by adversaries to attack these systems.
 			Although different defense methods have been proposed to prevent, mitigate, or detect attacks, they are either limited or ineffective against continuously evolving attack strategies due to the increased availability of ML tools, databases, and computing resources. 
-			For instance, evasion attacks that aim to fool ML systems have become a major threat to security or safety-critical applications. Model extraction attacks, which attempt to compromise the confidentiality of ML models, 
-			are also an important privacy concern. Both these attacks pose a serious threat even if the ML model is deployed behind an application program interface (API) and does not expose any information about the model itself to end users.<br>
+			For instance, evasion attacks that aim to fool ML systems have become a major threat to security or safety-critical applications. Model extraction attacks, which attempt to compromise the confidentiality of ML models, are also an important concern. 
+			Both these attacks pose serious threats even if the ML model is deployed behind an application program interface (API) and does not expose any information about the model itself to end users.<br>
 
-			This dissertation investigates the security threats to ML systems, particularly image classifiers and deep reinforcement learning agents, caused by evasion and model extraction attacks. 
-			In the first part of the dissertation, we develop methods to improve the effectiveness and efficiency of evasion attacks on image classifiers and deep reinforcement learning agents considering realistic adversary models. 
+			This dissertation investigates the security threats to ML systems caused by evasion and model extraction attacks. 
+			This dissertation contains three parts, namely, adversarial examples in ML, ownership verification in ML, and model extraction as a realistic threat. 
+			In the first part, we develop evasion attacks, which attain high effectiveness and efficiency at the same time, on image classifiers and deep reinforcement learning (DRL) agents. 
+			In both applications, we place a particular focus on operating within realistic adversary models. We show that our evasion attack on image classifiers can be as effective as state-of-the-art attacks with a cost decreased by three orders of magnitude.
+			We also demonstrate that we can destroy the performance of DRL agents with a small online cost and without modifying their inner states.
 			In the second part, we propose a novel approach that integrates ML watermarking solutions into the federated learning process with low computational (+3.2%) overhead and negligible degradation in the model performance (-0.17%). 
 			We also demonstrate that different dataset tracing and watermarking methods can only reliably demonstrate the ownership of big datasets having a high number of classes (&ge; 30), and with limited adversarial capabilities. 
-			In the third part, we show that the effectiveness of state-of-the-art model extraction attacks is affected by several aspects such as the amount of information delivered by API for each input, or the adversary's knowledge about the task and ML model architecture. 
-			Finally, we develop alternative watermarking techniques that can survive during model extraction attacks and deter adversaries by increasing the cost of the attack.
+			In the third part, we show that the effectiveness of state-of-the-art model extraction attacks is affected by several aspects such as the amount of information delivered via the API for each input, or the adversary's knowledge about the task and ML model architecture. 
+			We also develop alternative watermarking techniques that can survive during model extraction attacks and deter adversaries by increasing the cost of the attack. 
 			The findings in this dissertation will help ML model owners evaluate potential vulnerabilities and remedies against model evasion and extraction attacks considering different security requirements and realistic adversary models.
 			<hr>
 			<h3 id="publications-included-in-the-dissertation">Publications included in the dissertation </h3>
