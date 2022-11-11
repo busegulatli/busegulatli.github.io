@@ -1,5 +1,5 @@
 Hi! \
-I am Buse, doctoral student at Aalto University, Department of Computer Science in Finland. <br /> 
+I am Buse, security researcher at Nokia Bell Labs. Before joining Nokia, I was a doctoral student at Aalto University, Department of Computer Science in Finland. <br /> 
 I work in [Secure Systems Group](https://ssg.aalto.fi/) at Aalto University. <br />
 My research interests include security and privacy **of** machine learning; particularly, 
 1. adversarial examples,
