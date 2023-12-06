@@ -8,5 +8,5 @@ My research interests include security and privacy **of** machine learning; part
 in applications of **image classification and deep reinforcement learning**. <br />
 I am also interested in machine learning **for** the security and privacy including ML-based intrusion detections systems and malware detection. 
 
-You can contact me at : batlitekgul@[at]acm[dot]org <br />
+You can contact me at : busega@[at]acm[dot]org <br />
 
